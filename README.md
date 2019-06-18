@@ -1,4 +1,4 @@
 # hello-world
 first repository
 
-I am editin this file and practicing and learning GitHub
+I am editing this file and practicing and learning GitHub
